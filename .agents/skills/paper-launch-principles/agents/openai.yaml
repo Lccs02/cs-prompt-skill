@@ -1,0 +1,6 @@
+interface:
+  display_name: "论文发布会原则"
+  short_description: "审查、改写和压缩英文论文，以对应证据呈现核心贡献并保留 LaTeX 与技术事实"
+  default_prompt: "用 $paper-launch-principles 审查并改写这段英文论文，保留 LaTeX 和技术事实。"
+policy:
+  allow_implicit_invocation: true
