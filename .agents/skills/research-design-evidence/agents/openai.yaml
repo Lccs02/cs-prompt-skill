@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研设计与实验证据"
+  short_description: "核查最接近工作的机制差异，用已有证据决定主张边界及下一项最小对照"
+  default_prompt: "用 $research-design-evidence 核查这条研究主张，根据现有材料说明可以判断什么、下一步最值得验证什么。"
